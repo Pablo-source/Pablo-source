@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)
-![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
 
 
 
