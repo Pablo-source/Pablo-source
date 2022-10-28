@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on building a small text classification model to integrate it with Targets pipelines
+- 🌱 I’m currently learning R and Python
+- 👯 I’m looking to collaborate on any team in the NHS using R or Python
+
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
 
 
