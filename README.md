@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building a small text classification model to integrate it with Targets pipelines
+- 🔭 I’m currently working on a small text classification model to integrate it with Targets pipelines
 - 🌱 I’m currently learning R and Python
 - 👯 I’m looking to collaborate on any team in the NHS using R or Python
 
