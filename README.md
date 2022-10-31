@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a text classification model to run it using with Targets pipelines package
-- 🌱 I’m learning R, Python and Git
+- 🌱 I’m improving my skills using R, Python and Git
 - 👯 I’m looking for opportunities to work on any NHS team using R and Python 
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
