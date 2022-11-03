@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a text classification model to run it using with Targets pipelines package
+- 🔭 I’m currently working on a text classification model to run it using Targets pipelines package
 - 🌱 I’m improving my skills using R, Python and Git
 - 👯 I’m looking for opportunities to work on any NHS team using R and Python 
 
