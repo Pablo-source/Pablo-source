@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)
 
-![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-source&hide=javascript,html)](https://github.com/Pablo-source/github-readme-stats)
-
-
+![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-source&hide=javascript,html)]
 
 
 
