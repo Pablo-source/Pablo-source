@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m improving my skills using R, Python and Git
 - 👯 I’m looking for opportunities to work on any NHS team using R and Python 
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)
-
-![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-source&hide=javascript,html)]
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-source&hide=javascript,html)]
 
 
 
