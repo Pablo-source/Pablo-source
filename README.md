@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m exploring how to build a text classification model to run it using Targets pipelines package
-- 🔭 Also currently I am working on a climate visualization project called climate_viz to practise RStudio and GitHub integration
+- ⚡ Currently working on a climate visualization project 'climate_viz' to practise RStudio and GitHub integration
 - 🌱 I’m improving my skills using R, Python and Git working on new projects
-- 👯 I’m looking for opportunities to work on any NHS team using R and Python 
+- 👯 Looking for opportunities to work on a NHS team using R and Python 
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-source&show_icons=true&theme=tokyonight)      
 ![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-source&hide=javascript,html&theme=tokyonight)
