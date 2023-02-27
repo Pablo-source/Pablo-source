@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 Building a Time Series model pipeline using Targets and TSstudio packages
 - ⚡ Recently gained some experience integrating RStudio and GitHub workin on 'climate_viz' project  
 - 🌱 I’m improving my R Python and Git skills working on new projects 
-- 👯 Looking for opportunities to work on a NHS team using R and Python 
+- 👯 Looking for opportunities to be part of an NHS team using R and Python 
 
