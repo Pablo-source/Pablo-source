@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m improving my R Python and Git skills working on new projects 
 - 👯 Looking for opportunities to be part of an NHS team using R and Python 
 
+
+![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
+
