@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Building a Time Series model pipeline using Targets and TSstudio packages
-- ⚡ Currently re-designing the Shiny app using covid data to inpromve original design  
+- ⚡ Currently updating covid Shiny app project to inpromve its initial design  
 - 🌱 Improving my R, Git and Python skills building my personal website
 - 👯 Promoting R, Python and Git on my NHS team applying RAP principles
 
