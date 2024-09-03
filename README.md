@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
+![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&hide=javascript,htmllayout=compact&show_icons=true&theme=radical) 
 -->
 
 - 🔭 Building a Time Series model pipeline using Targets and TSstudio packages
@@ -21,5 +22,5 @@ Here are some ideas to get you started:
 - 🌱 Improving my R, Git and Python skills building my personal website
 - 👯 Promoting R, Python and Git on my NHS team applying RAP principles
 
-![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&hide=javascript,htmllayout=compact&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api?username=PABLO-SOURCE&theme=algolia&show_icons=true)](https://github.com/PABLO-SOURCE)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=PABLO-SOURCE&theme=algolia&show_icons=true)](https://github.com/PABLO-SOURCE)
 
