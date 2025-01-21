@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&hide=javascript,htmllayout=compact&show_icons=true&theme=radical) 
 -->
 
-- 🔭 Building a Time Series model pipeline using Targets and TSstudio packages
-- ⚡ Currently re-building covid Shiny app project to enhance its original design  
+- 🔭 Built a Time Series model pipeline using Targets and TSstudio packages
+- ⚡ Adding new scripts to my Python project  
 - 🌱 Improving my R, Git and Python skills building my personal website
 - 👯 Promoting R, Python and Git on my NHS team applying RAP principles
 
