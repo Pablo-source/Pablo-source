@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Adding new scripts to my Python project  
 - 🌱 Improving my R, Git and Python skills building my personal website
 - 👯 Promoting R, Python and Git on my NHS team applying RAP principles
-![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=PABLO-SOURCE&theme=algolia&show_icons=true)](https://github.com/PABLO-SOURCE)
 
