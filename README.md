@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
 
+![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&hide=javascript,htmllayout=compact&show_icons=true&theme=radical) 
 
 
 
