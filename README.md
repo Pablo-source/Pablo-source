@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 Promoting R, Python and Git on my NHS team applying RAP principles
 - ⚡ Currently working on a Distill blog I will release in December
 
-![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&layout=compact&show_icons=true&theme=radical)
+![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-source&layout=compact&show_icons=true&theme=radical)
 
 ![Pablo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-SOURCE&hide=javascript,htmllayout=compact&show_icons=true&theme=radical) 
 
