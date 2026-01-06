@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Adding new scripts to my Python project  
 - 🌱 Improving my R, Git and Python skills building my personal website 
 - 👯 Promoting R, Python and Git on my NHS team applying RAP principles
-- ⚡ Currently working on a Distill blog I will release in December
+- ⚡ Currently working on a Distill blog I will release in January 2026
 
 
 
